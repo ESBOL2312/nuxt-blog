@@ -10,6 +10,7 @@ $ npm install
 $ npm run dev
 
 # build for production and launch server
+$ json-server db.json
 $ npm run build
 $ npm run start
 
